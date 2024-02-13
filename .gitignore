@@ -1,5 +1,4 @@
-/node_modules
-/dist
+node_modules
 .parcel-cache
-coverage
-.env
+dist
+About.md
